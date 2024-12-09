@@ -2,11 +2,17 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Some material
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+# Teaching Courses
 
-Organize your courses by years, topics, or universities, however you like!
+## Versailles St-Quentin University: Bachelor
+### Spring 2025 LSMA230N (Chemistry/Biology major) Probability, Statistics.
+Winter 2025. LSMA100A (Chemistry/Biology major): Calculus, Differential Equations, Linear Algebra. 128h.
+2021-2023. LSMA100 (Mathematics/Physics major): Calculus, Differential Equations. 128h.
+2021-2025. OUI-SI Maths tutoring 
+
+
