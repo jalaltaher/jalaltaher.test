@@ -2,12 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Some material
+description:
 nav: true
 nav_order: 6
 ---
 
-# Teaching Courses
+# **Teaching Courses**
 
 ## Versailles St-Quentin University: 
 -*Spring 2025*. **LSMA230N** (Chemistry/Biology major) Probability, Statistics.
