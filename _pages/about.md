@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Paris-Saclay University, Versailles maths laboratory (LMV)</a>.
+subtitle:PhD candidate at Paris-Saclay University, Versailles maths laboratory (LMV)</a>.
 
 profile:
   align: right
