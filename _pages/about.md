@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:PhD candidate at Paris-Saclay University, Versailles maths laboratory (LMV)</a>.
+subtitle: PhD Researcher at <a href=https://lmv.math.cnrs.fr/">Versailles Mathematics Laboratory</a> (Paris-Saclay University)
 
 profile:
   align: right
