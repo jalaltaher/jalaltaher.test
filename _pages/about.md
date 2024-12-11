@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Researcher at <a href=https://lmv.math.cnrs.fr/">Versailles Mathematics Laboratory</a> (Paris-Saclay University)
+subtitle: PhD Candidate at <a href=https://lmv.math.cnrs.fr/">Versailles Mathematics Laboratory</a> (Paris-Saclay University)
 
 profile:
   align: right
