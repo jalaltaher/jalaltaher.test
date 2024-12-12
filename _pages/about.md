@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am PhD student at Pars-Saclay University, affiliated with the Mathematics Department at Versailles-St-Quentin University, under the supervision of Céline Duval and Ester Mariucci. My thesis title is 'Statistics for jump processes and applications'. I have explored the following directions in the past few years: 
-- **Non-parametric density estimation** in the context of Lévy processes,
+- **Non-parametric density estimation and adaptive estimation** for Lévy process,
 - **Inverse problems**, deconvolution of the small jump density of Lévy processes.
 - **Monte-Carlo methods for trajectory simulation**, simulation of $\alpha-$stable and Classical tempered stable Lévy processes.
 - **Gaussian approximation of small jumps**.
