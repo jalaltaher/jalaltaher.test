@@ -21,7 +21,7 @@ I am a PhD student at Pars-Saclay University, affiliated with the Mathematics De
 - **Adaptive methods for Fourier estimators**.
 - **Inverse problems**.
 - **Monte-Carlo methods for trajectory simulation**.
-- 
+
 Before joining the Mathematics Laboratory of Versailles (LMV), I earned an MSc in Probability and Statistics from the Paris-Saclay University. In 2019, I graduated with a major in Applied Mathematics from Ecole Polytechnique. My academic journey includes a BSc in pure and applied mathematics at the University Paris-Sud, Orsay obtained in 2016, and a BA in philosophy in 2019 at Nanterre University (parallel with my scientific curriculum).
 
 **Research Interests**: *Nonparametric statistics, Stochastic processes, SDE,  Deconvolution, Lévy processes, Stable distributions, Exponential tilting...*
